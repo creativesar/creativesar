@@ -32,15 +32,15 @@ Hi, I'm Sarfaraz Ahmad, a dedicated programmer and Figma expert specializing in 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://creativesar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sarfraz-ahmad-595428286/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:uniqueluck68@gmail.com)
+
 
 ---
 
 ## 🎨 A Glimpse of My Work
-![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=ecommerce-platform&theme=radical)
-![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=uiux-portfolio&theme=radical)
+![Project Preview]([https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=ecommerce-platform&theme=radical](https://blogsite-milestone-three-1g51razqu-creativesars-projects.vercel.app/))
+![Project Preview]([https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=uiux-portfolio&theme=radical](https://shop-liart-omega.vercel.app/))
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi 👋! I'm Sarfaraz Ahmad — Full-Stack Developer | UI/UX Designer | Creative Thinker
+# Hi 👋! I'm Sarfraz Ahmad — Full-Stack Developer | UI/UX Designer | Creative Thinker
 
 ## 🚀 About Me
 Hello! I'm Sarfaraz Ahmad, a passionate full-stack developer and a Figma wizard specializing in creating delightful UI/UX experiences. With a blend of creativity and technical skills, I design visually stunning interfaces and develop scalable, efficient applications. Let’s create the future, one pixel at a time!

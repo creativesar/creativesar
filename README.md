@@ -15,8 +15,6 @@ Hello! I'm Sarfaraz Ahmad, a passionate full-stack developer and a Figma wizard 
 - Building scalable web apps with **React**, **Next.js**, and **TypeScript**.
 - Integrating payment systems, CMS platforms, and API solutions for complex projects.
 
-### 🌐 Dreamer
-- Thriving on innovation and bringing concepts into reality through Web 3.0 and Metaverse tools.
 
 ---
 

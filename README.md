@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋! I'm Sarfaraz Ahmad, a passionate full-stack developer and UI/UX designer.
 
-<!--
-**creativesar/creativesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi, I'm Sarfaraz Ahmad, a dedicated programmer and Figma expert specializing in UI/UX design. I craft intuitive and visually appealing user interfaces while building full-stack applications for modern web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+| **GitHub Contributions** | **Top Languages by Repo** |
+| :----------------------: | :-----------------------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creativesar&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=creativesar&layout=compact&theme=radical) |
+
+---
+
+## 🔥 Key Projects
+- [**E-commerce Platform**](#): A highly responsive e-commerce platform built with **Sanity CMS**, integrated with a secure payment system.
+- [**UI/UX Design Portfolio**](#): A showcase of my Figma designs and prototypes for web and mobile applications.
+- [**Portfolio Website**](#): A personal portfolio showcasing my skills and projects, built with **Next.js**, **React**, and **TailwindCSS**.
+
+---
+
+## ⚙️ Technologies & Tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-red?logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://creativesar.dev)
+
+---
+
+## 🎨 A Glimpse of My Work
+![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=ecommerce-platform&theme=radical)
+![Project Preview](https://github-readme-stats.vercel.app/api/pin/?username=creativesar&repo=uiux-portfolio&theme=radical)
+
+---
+
+## 🏆 Achievements
+- Successfully launched an e-commerce platform with modern technologies.
+- Created interactive prototypes and design systems in Figma for various projects.
+- Contributed to open-source projects with **50+ commits** and **10 pull requests**.
+
+---
+
+Thank you for stopping by! Let's connect and collaborate on awesome projects. 🌐

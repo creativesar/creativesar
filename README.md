@@ -1,9 +1,8 @@
 <div align="center">
-  
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B!+I'm+Sarfraz+Ahmad;Full-Stack+Dev+%7C+UI%2FUX+Designer+%7C+Digital+Creator" alt="Animated Header">
 
-<!-- Profile Views Counter -->
+<!-- Enhanced Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=90&lines=Hi+%F0%9F%91%8B!+I'm+Sarfraz+Ahmad;Full-Stack+Dev+%7C+UI%2FUX+Designer+%7C+Digital+Creator" alt="Animated Header">
+
 <img src="https://komarev.com/ghpvc/?username=creativesar&label=Profile+Views&color=0e75b6&style=flat" align="right">
 
 <!-- Social Links -->
@@ -18,14 +17,12 @@
     <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
   </a>
 </p>
-
 </div>
 
 ---
 
 ## 🚀 **About Me**
 
-<!-- Animated Profile Section -->
 <table>
   <tr>
     <td width="60%">
@@ -34,7 +31,6 @@
       <p>🚀 <strong>Current Focus:</strong> Building AI-powered design systems</p>
     </td>
     <td>
-      <!-- Animated Code GIF -->
       <img src="https://raw.githubusercontent.com/creativesar/creativesar/main/code-animation.gif" width="100%">
     </td>
   </tr>
@@ -44,7 +40,6 @@
 
 ## 🛠 **Tech Stack**
 
-<!-- Animated Tech Stack Cards -->
 <div align="center">
 
 ### **Development Arsenal**
@@ -64,7 +59,6 @@
 
 ## 📈 **GitHub Analytics**
 
-<!-- Dynamic Stats Grid -->
 <div align="center">
 
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=creativesar&theme=tokyonight&hide_border=true) | ![Trophy Case](https://github-profile-trophy.vercel.app/?username=creativesar&theme=onedark&no-frame=true&row=2&column=4) |
@@ -79,7 +73,6 @@
 
 ## 🎨 **Design Showcase**
 
-<!-- Interactive Design Gallery -->
 <div align="center">
   
 ### UI/UX Case Studies
@@ -94,7 +87,6 @@
 
 ## 🔥 **Featured Projects**
 
-<!-- Project Cards with Hover Effects -->
 <div align="center">
 
 | [![E-commerce Platform](https://raw.githubusercontent.com/creativesar/creativesar/main/ecommerce-preview.jpg)](https://github.com/creativesar/ecommerce) | [![AI Dashboard](https://raw.githubusercontent.com/creativesar/creativesar/main/ai-dashboard-preview.jpg)](https://github.com/creativesar/ai-dashboard) |
@@ -105,18 +97,8 @@
 
 ---
 
-## 📝 **Latest Blog Posts**
-
-<!-- Dynamic Blog Posts -->
-- 🚀 [Building Scalable Design Systems with Figma](https://your-blog.com/design-systems)
-- ⚡ [Mastering React Performance Optimization](https://your-blog.com/react-performance)
-- 🎨 [The Psychology of Color in UI Design](https://your-blog.com/color-psychology)
-
----
-
 ## 💡 **Innovation Station**
 
-<!-- Animated Idea Brainstorm -->
 <div align="center">
   
 ![Creative Process](https://raw.githubusercontent.com/creativesar/creativesar/main/innovation-gif.gif)
@@ -132,5 +114,6 @@
 
 </div>
 
-<!-- Snake Game Contribution Grid -->
+<!-- Animated Contribution Grid -->
 ![Contribution Grid](https://raw.githubusercontent.com/creativesar/creativesar/output/github-contribution-grid-snake.svg)
+

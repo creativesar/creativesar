@@ -31,16 +31,17 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+
 
 ### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
+![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+## 💊 GitHub Analytics
 
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=creativesar&theme=tokyonight&hide_border=true) | ![Trophy Case](https://github-profile-trophy.vercel.app/?username=creativesar&theme=onedark&no-frame=true&row=2&column=4) |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|

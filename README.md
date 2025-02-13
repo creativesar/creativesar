@@ -18,9 +18,10 @@
 ---
 
 ## 🚀 About Me
-🎯 **Mission:** Transforming ideas into scalable digital products  
-💡 **Passion:** Crafting intuitive & engaging user experiences  
-🔥 **Current Focus:** AI-powered design systems & next-gen UI frameworks  
+
+- 🎯 **Mission:** Transforming ideas into scalable digital products  
+- 💡 **Passion:** Crafting intuitive & engaging user experiences  
+- 🔥 **Current Focus:** AI-powered design systems & next-gen UI frameworks  
 
 ---
 
@@ -72,5 +73,8 @@
 
 </div>
 
+---
+
 <!-- Animated Contribution Grid -->
 ![Contribution Grid](https://raw.githubusercontent.com/creativesar/creativesar/output/github-contribution-grid-snake.svg)
+

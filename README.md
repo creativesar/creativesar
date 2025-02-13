@@ -53,7 +53,7 @@ Hello! I'm Sarfaraz Ahmad, a passionate full-stack developer and a Figma wizard 
 ## 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sarfraz-ahmad-595428286/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:uniqueluck68@gmail.com)
-
+ 
 
 ---
 
